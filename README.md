@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Istio](https://github.com/istio-ecosystem/)
 
-- 🌱 I’m currently learning **Web3,Blockchain,Big Data**
-
 - 📝 I regularly write articles on [https://medium.com/@rajendragosavi](https://medium.com/@rajendragosavi)
 
 - 💬 Ask me about **Go,Kubernetes,Containers,Platform Engineering**
